@@ -13,14 +13,14 @@ Follow these steps to set up and run the **Blog-Plugin** project.
 ### Frontend Setup
 
 1. Clone the repository:
-   ```bash
+  ```bash
    [git clone https://github.com/Charishma608/blog-plugin.git](https://github.com/Charishma608/Blog-Plugin.git)
    cd blog-plugin
-   ```
+  ```
 2. Navigate to the frontend folder:
-   ```bash
-   cd blog-frontend
-   ```
+  ```bash
+  cd blog-frontend
+  ```
 3. Install frontend dependencies:
   ```bash
   npm install
