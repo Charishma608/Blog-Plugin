@@ -1,0 +1,45 @@
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh; 
+}
+
+.side-dashboard {
+  width: 250px; 
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-right: 1px solid #ddd;
+  box-sizing: border-box;
+}
+
+.side-dashboard h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.side-dashboard ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.side-dashboard li {
+  margin: 10px 0;
+}
+
+
+
+
+.main-content {
+  flex: 1; 
+  padding: 20px;
+  overflow: hidden; 
+  box-sizing: border-box;
+  background-color: #fff; 
+}
