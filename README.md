@@ -14,7 +14,7 @@ Follow these steps to set up and run the **Blog-Plugin** project.
 
 1. Clone the repository:
   ```bash
-   [git clone https://github.com/Charishma608/blog-plugin.git](https://github.com/Charishma608/Blog-Plugin.git)
+   git clone https://github.com/Charishma608/blog-plugin.git
    cd blog-plugin
   ```
 2. Navigate to the frontend folder:
